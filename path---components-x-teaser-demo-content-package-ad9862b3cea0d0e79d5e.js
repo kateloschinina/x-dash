@@ -1,0 +1,2 @@
+webpackJsonp([0x5ec0959d0a46],{355:function(e,t){e.exports={pathContext:{sitemap:{title:"Content Package",breadcrumbs:["Components","x-teaser","Demos","Content Package"]},componentName:"x-teaser",componentStory:"Content Package"}}}});
+//# sourceMappingURL=path---components-x-teaser-demo-content-package-ad9862b3cea0d0e79d5e.js.map

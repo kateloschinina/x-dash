@@ -1,0 +1,2 @@
+webpackJsonp([0x730e479d2ac6],{373:function(e,t){e.exports={data:{markdownRemark:{htmlAst:{type:"root",children:[{type:"element",tagName:"p",properties:{},children:[{type:"text",value:"Learn about x-dash, whether you're getting started or want in-depth information, from the guides in the menu."}]}],data:{quirksMode:!1}},frontmatter:{path:"/guides/",title:"Guides"},headings:[],timeToRead:1,wordCount:{words:17}}},pathContext:{sitemap:{title:"Guides",breadcrumbs:["Guides"]}}}}});
+//# sourceMappingURL=path---guides-b3606c2a51aa6088094e.js.map

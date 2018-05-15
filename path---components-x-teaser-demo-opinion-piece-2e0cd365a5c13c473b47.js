@@ -1,0 +1,2 @@
+webpackJsonp([0x69ba505ff7d2],{356:function(e,n){e.exports={pathContext:{sitemap:{title:"Opinion Piece",breadcrumbs:["Components","x-teaser","Demos","Opinion Piece"]},componentName:"x-teaser",componentStory:"Opinion Piece"}}}});
+//# sourceMappingURL=path---components-x-teaser-demo-opinion-piece-2e0cd365a5c13c473b47.js.map

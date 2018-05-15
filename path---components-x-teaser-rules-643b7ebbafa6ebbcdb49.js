@@ -1,0 +1,2 @@
+webpackJsonp([8669198972e3],{361:function(e,t){e.exports={data:{markdownRemark:{htmlAst:{type:"root",children:[],data:{quirksMode:!1}},frontmatter:{path:"/components/x-teaser/rules",title:"Rules"},headings:[],timeToRead:1,wordCount:{words:null}}},pathContext:{sitemap:{title:"Rules",breadcrumbs:["Components","x-teaser","Rules"]}}}}});
+//# sourceMappingURL=path---components-x-teaser-rules-643b7ebbafa6ebbcdb49.js.map
